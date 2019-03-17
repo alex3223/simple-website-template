@@ -1,0 +1,18 @@
+
+$large: 850px;
+$small: 768px;
+$xsmall: 576px;
+$gutter: 15px;
+$col-size: 300px;
+
+@media (min-width: $large + 1) {
+}
+
+@media (max-width: $large) and (min-width: $small + 1) {
+}
+
+@media (max-width: $small) and (min-width: $xsmall + 1) {
+}
+
+@media (max-width: $xsmall) {
+}

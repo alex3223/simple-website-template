@@ -1,0 +1,14 @@
+{
+  "name": "simple-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Alecto/simple-template.git",
+  "author": "Alecto <fomenkoandrey@inbox.ru>",
+  "license": "MIT",
+  "devDependencies": {
+    "normalize-scss": "^7.0.1"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}

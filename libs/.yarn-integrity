@@ -1,0 +1,18 @@
+{
+  "systemParams": "win32-x64-64",
+  "modulesFolders": [
+    "libs"
+  ],
+  "flags": [],
+  "linkedModules": [],
+  "topLevelPatterns": [
+    "jquery@^3.3.1",
+    "normalize-scss@^7.0.1"
+  ],
+  "lockfileEntries": {
+    "jquery@^3.3.1": "https://registry.yarnpkg.com/jquery/-/jquery-3.3.1.tgz#958ce29e81c9790f31be7792df5d4d95fc57fbca",
+    "normalize-scss@^7.0.1": "https://registry.yarnpkg.com/normalize-scss/-/normalize-scss-7.0.1.tgz#74485e82bb5d0526371136422a09fdb868ffc1a4"
+  },
+  "files": [],
+  "artifacts": {}
+}
